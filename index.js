@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const prefix = '!!';
-const token = 'Nzg0NTA2MzY1OTgwMDQ5NDI4.X8qSfQ.BiZ32t4wTZ2Cu034M7ib8NSJiYQ';
+const token = 'Token hidden';
  
 bot.on('ready', () => {
     console.log(`${bot.user.tag} successfully logged in to v1.3.6!`)
